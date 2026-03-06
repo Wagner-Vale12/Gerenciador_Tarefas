@@ -1,4 +1,4 @@
-import Input from "./input.jsx"
+import Input from "./Inpu.jsx"
 import { useState } from "react"
 
 function AddTasks({ onAddTaskSubmit }) {
